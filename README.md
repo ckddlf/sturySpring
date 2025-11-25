@@ -1,2 +1,2 @@
-# sturySpring
+# studySpring
 Study spring
